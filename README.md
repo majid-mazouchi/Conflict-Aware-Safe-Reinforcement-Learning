@@ -1,5 +1,5 @@
 # Conflict-Aware-Safe-Reinforcement-Learning
-##Conflict-Aware Safe Reinforcement Learning: A Meta-Cognitive Learning Framework
+## Conflict-Aware Safe Reinforcement Learning: A Meta-Cognitive Learning Framework
 Published in: IEEE/CAA Journal of Automatica Sinica
 
 ### [Link to paper](https://ieeexplore.ieee.org/abstract/document/9646175)
